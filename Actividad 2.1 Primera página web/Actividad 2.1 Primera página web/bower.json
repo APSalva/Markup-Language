@@ -1,0 +1,13 @@
+{
+    "name": "Actividad_2.1_Primera_p_gina_web",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
