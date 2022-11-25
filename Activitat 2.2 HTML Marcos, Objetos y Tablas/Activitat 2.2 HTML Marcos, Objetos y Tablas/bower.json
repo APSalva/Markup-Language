@@ -1,0 +1,13 @@
+{
+    "name": "Activitat_2.2_HTML_Marcos__Objetos_y_Tablas",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
